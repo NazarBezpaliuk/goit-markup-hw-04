@@ -63,7 +63,6 @@ img {
 }
 .header .conteiner {
   display: flex;
-  align-items: baseline;
 }
 .header-logo {
   margin-right: 93px;
