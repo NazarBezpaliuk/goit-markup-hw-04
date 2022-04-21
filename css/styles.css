@@ -63,7 +63,7 @@ img {
 }
 .header .conteiner {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
 .header-logo {
   margin-right: 93px;
@@ -92,6 +92,10 @@ img {
 }
 .header-mail {
   margin-right: 50px;
+}
+.contact-header {
+  display: flex;
+  align-items: center;
 }
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -348,6 +352,7 @@ img {
 }
 .footer .conteiner {
   display: flex;
+  align-items: baseline;
 }
 .footer-text {
   font-weight: 700;
