@@ -55,6 +55,8 @@ img {
 .header {
   background-color: var(--header-background);
   border-bottom: 1px solid #ececec;
+  width: 1600px;
+  margin: 0 auto;
 }
 .header-link {
   display: block;
@@ -177,6 +179,8 @@ img {
 .qualities {
   padding-bottom: 47px;
   padding-top: 94px;
+  width: 1600px;
+  margin: 0 auto;
 }
 .qualities-list {
   display: flex;
@@ -216,6 +220,8 @@ img {
 .what-we-do {
   padding-top: 47px;
   padding-bottom: 94px;
+  width: 1600px;
+  margin: 0 auto;
 }
 .what-we-do-title {
   font-size: 36px;
@@ -236,6 +242,8 @@ img {
 }
 .team {
   background-color: #f5f4fa;
+  width: 1600px;
+  margin: 0 auto;
 }
 .team {
   padding-top: 94px;
@@ -313,6 +321,8 @@ img {
 .client {
   padding-bottom: 94px;
   padding-top: 94px;
+  width: 1600px;
+  margin: 0 auto;
 }
 .client .conteiner {
   text-align: center;
@@ -352,6 +362,8 @@ img {
 }
 .footer {
   background-color: #2f303a;
+  width: 1600px;
+  margin: 0 auto;
 }
 .footer {
   padding-top: 60px;
@@ -439,6 +451,8 @@ img {
 .portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
+  width: 1600px;
+  margin: 0 auto;
 }
 .btn-portfolio {
   display: flex;
